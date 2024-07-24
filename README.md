@@ -1,2 +1,1 @@
-# hybrid-interconnect-weylsm
-Implementation of WSM-poly hybrid interconnect in "Exploring Topological Semi-Metals for Interconnects"
+HSPICE implementation to observe wordline delay reduction using WSM-poly hybrid interconnect in DRAMs of different array sizes.
