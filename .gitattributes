@@ -1,1 +1,2 @@
-*.sp linguist-language=HSPICE
+*.sp linguist-detectable=true
+*.sp linguist-language=Spice
